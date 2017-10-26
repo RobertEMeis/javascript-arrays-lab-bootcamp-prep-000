@@ -13,6 +13,6 @@ return array.push(kitten);
 function destructivelyRemoveFirstKitten() {
 
   kittens = kittens.slice(1);
-  
+
 
 }
