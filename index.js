@@ -35,4 +35,3 @@ function destructivelyRemoveLastKitten() {
 
   return kittens = kittens.pop();
 }
-
