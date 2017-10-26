@@ -12,6 +12,7 @@ return array.push(kitten);
 
 function destructiveRemoveFirstKitten() {
 
-  return kittens.slice(1, 2);
+  kittens.slice(1, 2);
+  return kittens;
 
 }
