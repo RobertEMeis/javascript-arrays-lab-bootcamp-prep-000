@@ -47,4 +47,3 @@ function appendKitten(name) {
 
   return [name, ...kittens];
 }
-
