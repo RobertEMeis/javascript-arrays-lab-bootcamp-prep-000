@@ -29,3 +29,10 @@ function destructivelyPrependKitten(name) {
   kittens.unshift(name);
 
 }
+
+
+function destructivelyRemoveLastKitten() {
+
+  return kittens = kittens.pop();
+}
+
